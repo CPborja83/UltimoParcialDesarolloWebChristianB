@@ -1,0 +1,6 @@
+@UltimoParcialDesarolloWebChristianB_HostAddress = http://localhost:5062
+
+GET {{UltimoParcialDesarolloWebChristianB_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
